@@ -1,0 +1,6 @@
+{
+  "secret": "SecretForPasswordJWT",
+  "connectionString": "mongodb://VanTiger:vanblog21@ds255463.mlab.com:55463/trello_clone",
+  "mailerAcc": "tigranyan.van@gmail.com",
+  "mailerPass": "vanblog21"
+}
